@@ -12,7 +12,8 @@
 	<artifactId>zero-energy-chat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>zero-energy-chat</name>
-	<description>Demo project for Spring Boot</description>
+    <packaging>jar</packaging>
+	<description>Task for interview in Zero Energy Solution</description>
 
 	<properties>
 		<java.version>1.8</java.version>
